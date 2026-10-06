@@ -1,0 +1,19 @@
+[project]
+name = "261006-termoenergetica-scrapper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "polars>=2.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# Make `scraper` importable without installing the project.
+pythonpath = ["."]
