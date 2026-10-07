@@ -15,3 +15,9 @@ wheels/
 
 # Local test runs; the GitHub Action writes to scraper_data/ instead
 scraper_data_local/
+
+# Claude internals
+CLAUDE.md
+
+# Personal GitHub setup notes
+GITHUB_SETUP.md
