@@ -63,3 +63,4 @@ snapshot_ts_utc,status,changed,raw_sha256,bytes,n_rows,n_observations,raw_path,e
 2026-10-24T17:25:54Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
 2026-10-24T22:28:28Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
 2026-10-25T07:34:10Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
+2026-10-25T13:11:14Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
