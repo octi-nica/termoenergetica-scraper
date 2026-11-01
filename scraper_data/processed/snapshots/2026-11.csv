@@ -1,0 +1,2 @@
+snapshot_ts_utc,status,changed,raw_sha256,bytes,n_rows,n_observations,raw_path,error
+2026-11-01T09:10:08Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
