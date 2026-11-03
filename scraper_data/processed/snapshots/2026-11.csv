@@ -5,3 +5,4 @@ snapshot_ts_utc,status,changed,raw_sha256,bytes,n_rows,n_observations,raw_path,e
 2026-11-02T09:25:08Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
 2026-11-02T22:46:42Z,fetch_error,0,,0,0,0,,URLError: <urlopen error timed out>
 2026-11-03T09:27:21Z,ok,1,70ca60238dca8244b0edff96d0bc2fa91ce6c97eec26eb4e2ec034c8c6cbd173,138107,44,728,raw/2026/11/2026-11-03T092721Z.html,
+2026-11-03T20:29:11Z,ok,1,6ed175207ee2c51842c274496bb4abbf263d363092b1dacd5b1439ceaf86878f,125361,27,669,raw/2026/11/2026-11-03T202911Z.html,
